@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<jellybeantv version="0.7.4" active="true">
+<jellybeantv version="0.7.5" active="true">
     <apk>
-        https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-0.7.4.apk
+        https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-0.7.5.apk
     </apk>
 </jellybeantv>
