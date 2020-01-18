@@ -5,9 +5,9 @@
 		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-1.1.4.apk
 	    </apk>
 	</jellybeantv>
-	<jellybean-free version="1.1.3" active="true">
+	<jellybean-free version="1.1.4" active="true">
 	    <apk>
-		https://bitbucket.org/xystra/portal/downloads/jellybean-free-1.1.3.apk
+		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybean-free-1.1.4.apk
 	    </apk>
 	</jellybean-free>
 </jellybean>
