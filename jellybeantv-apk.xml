@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <jellybean>
-	<jellybeantv version="1.1.7" active="true">
+	<jellybeantv version="1.1.6" active="true">
 	    <apk>
-		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-1.1.7.apk
+		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-1.1.6.apk
 	    </apk>
 	</jellybeantv>
-	<jellybean-free version="1.1.7" active="true">
+	<jellybean-free version="1.1.6" active="true">
 	    <apk>
-		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybean-free-1.1.7.apk
+		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybean-free-1.1.6.apk
 	    </apk>
 	</jellybean-free>
 </jellybean>
