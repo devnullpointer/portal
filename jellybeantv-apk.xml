@@ -5,9 +5,9 @@
 		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-1.1.9.apk
 	    </apk>
 	</jellybeantv>
-	<jellybean-free version="1.1.8" active="true">
+	<jellybean-free version="1.1.9" active="true">
 	    <apk>
-		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybean-free-1.1.8.apk
+		https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybean-free-1.1.9.apk
 	    </apk>
 	</jellybean-free>
 </jellybean>
