@@ -1,7 +1,7 @@
 {
-  "versionName":"2.0.50",
-  "versionCode": "50",
-  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-2.0.50.apk",
+  "versionName":"2.0.51",
+  "versionCode": "51",
+  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-2.0.51.apk",
   "forceUpdate": false,
   "whatsNew": "<< what changes the app update will bring >>",
   "active": true
