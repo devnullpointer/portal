@@ -1,7 +1,7 @@
 {
   "versionName":"2.0.77",
   "versionCode": "77",
-  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/portal/master/apk/billsmovies-2.0.77.apk",
+  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/portal/master/apk/billmovie-2.0.77.apk",
   "forceUpdate": false,
   "whatsNew": "<< what changes the app update will bring >>",
   "active": true
