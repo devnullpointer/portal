@@ -1,7 +1,7 @@
 {
-  "versionName":"2.0.90",
-  "versionCode": "90",
-  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-2.0.90.apk",
+  "versionName":"2.0.91",
+  "versionCode": "91",
+  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/portal/master/apk/jellybeantv-2.0.91.apk",
   "forceUpdate": false,
   "whatsNew": "<< what changes the app update will bring >>",
   "active": true
